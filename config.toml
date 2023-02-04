@@ -25,7 +25,7 @@ disqusShortname = ""
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Events & News"
     url = "/posts/"
     weight = 1
 
