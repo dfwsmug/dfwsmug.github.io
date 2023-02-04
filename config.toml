@@ -66,12 +66,12 @@ disqusShortname = ""
 
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "dfwsmug"
+    Linkedin = "dfwsmug"
+    Twitter = "dfwsmug"
     #Instagram = "xxxx"
-    #Email   = "xxxx"
-    Facebook = "xxxx"
+    Email   = "info@dfwsmug.org"
+    Facebook = "dfwsmug"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -141,10 +141,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "DFWSMUG"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "DFWSMUG"
 
     [params.publisher.logo]
       url = "logo.png"
