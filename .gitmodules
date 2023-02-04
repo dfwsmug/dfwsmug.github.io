@@ -22,3 +22,9 @@
 [submodule "themes/keepIt"]
 	path = themes/keepIt
 	url = https://github.com/Fastbyte01/KeepIt
+[submodule "themes/redgood"]
+	path = themes/redgood
+	url = https://github.com/urjaacharya/redgood
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/jpanther/lynx
