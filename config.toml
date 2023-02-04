@@ -1,14 +1,14 @@
-baseURL = "https://example.com"
+baseURL = "https://dfwsmug.org"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Dallas/Fort Worth Systems Management User Group"
 theme = "KeepIt"
 
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [sitemap]
   changefreq = "monthly"
@@ -35,14 +35,14 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "About DFWSMUG"
     url = "/about"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 1845
+    author = "DFWSMUG"               # Author's name
+    subtitle = "DFWSMUG"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -53,10 +53,10 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/dfwsmug.png" #comment it to use gravatar
     socialShare = true
 
-    description = "" # site description
+    description = "DFW Systems Management User Group" # site description
     keywords = "" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
