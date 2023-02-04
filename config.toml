@@ -12,8 +12,8 @@ links = [
   { github = "https://github.com/dfwsmug" },
   { twitter = "https://twitter.com/dfwsmug" },
   { facebook = "https://facebook.com/dfwsmug" },
-  { eventbrite = { href = "https://www.eventbrite.com/o/dfwsmug-5019563697", text = "Events" } },
-
+  { calendar-days = { href = "https://www.eventbrite.com/o/dfwsmug-5019563697", text = "Events" } },
+  { email = "mailto:info@dfwsmug.org" },
 ]
 
 [markup.highlight]
