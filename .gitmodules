@@ -13,3 +13,12 @@
 [submodule "themes/hugo-tranquilpeak-theme"]
 	path = themes/hugo-tranquilpeak-theme
 	url = https://github.com/kakawait/hugo-tranquilpeak-theme
+[submodule "themes/virgo"]
+	path = themes/virgo
+	url = https://github.com/loveminimal/hugo-theme-virgo.git
+[submodule "themes/startpage"]
+	path = themes/startpage
+	url = https://github.com/spech66/bootstrap-bp-hugo-startpage.git
+[submodule "themes/keepIt"]
+	path = themes/keepIt
+	url = https://github.com/Fastbyte01/KeepIt
