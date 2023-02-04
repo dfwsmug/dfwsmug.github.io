@@ -1,0 +1,15 @@
+[submodule "themes/nix"]
+	path = themes/nix
+	url = https://github.com/LordMathis/hugo-theme-nix
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt
+[submodule "themes/Travelify"]
+	path = themes/Travelify
+	url = https://github.com/balaramadurai/hugo-travelify-theme
+[submodule "themes/hugo-travelify-theme"]
+	path = themes/hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme
