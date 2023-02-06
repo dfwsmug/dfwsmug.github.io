@@ -9,11 +9,12 @@ name = "DFWSMUG"
 headline = "Dallas/Fort Worth Systems Management User Group"
 image = "images/customLogo.png"
 links = [
+  { events = { href = "https://www.eventbrite.com/o/dfwsmug-5019563697", text = "Events" } },
   { github = "https://github.com/dfwsmug" },
   { twitter = "https://twitter.com/dfwsmug" },
   { facebook = "https://facebook.com/dfwsmug" },
   { linkedin = "https://www.linkedin.com/groups/14201004/" },
-  { events = { href = "https://www.eventbrite.com/o/dfwsmug-5019563697", text = "Events" } },
+ { CfS = { href = "https://sessionize.com/dfwsmug-april-2023/", text = "Call for Speakers" } },
 ]
 
 
