@@ -52,6 +52,10 @@
     {
       "title": "posts",
       "path": "[[workspace]]/content/posts"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
     }
   ],
   "frontMatter.taxonomy.tags": [
