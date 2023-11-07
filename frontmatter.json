@@ -57,18 +57,5 @@
       "title": "posts",
       "path": "[[workspace]]/content/posts"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "development",
-    "go",
-    "golang",
-    "hugo",
-    "templates",
-    "themes"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "Development",
-    "Go",
-    "golang"
   ]
 }
