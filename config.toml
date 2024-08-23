@@ -9,12 +9,11 @@ name = "DFWSMUG"
 headline = "Dallas/Fort Worth Systems Management User Group"
 image = "images/customLogo.png"
 links = [
-  { events = { href = "https://www.eventbrite.com/o/dfwsmug-5019563697", text = "Events" } },
+  { events = { href = "https://mailchi.mp/18920a3ae49d/dfwsmug", text = "Sign Up For Our Newsletter" } },
   { github = "https://github.com/dfwsmug" },
   { twitter = "https://twitter.com/dfwsmug" },
   { facebook = "https://facebook.com/dfwsmug" },
-  { linkedin = "https://www.linkedin.com/groups/14201004/" },
- { CfS = { href = "https://sessionize.com/dfwsmug-april-2023/", text = "Call for Speakers" } },
+  { linkedin = "https://www.linkedin.com/groups/14201004/" }
 ]
 
 
@@ -24,3 +23,6 @@ noClasses = false
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+
+[[imports]]
+path = "github.com/jpanther/lynx"
