@@ -50,12 +50,9 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
+      "title": "content",
+      "path": "[[workspace]]/content"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }
