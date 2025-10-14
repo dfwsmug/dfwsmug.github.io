@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <article class="flex flex-col h-full mt-10 text-left max-w-4xl">
+  <article class="flex flex-col h-full mt-10 text-left max-w-4xl mx-auto">
     <header class="flex flex-col text-left mb-3">
       {{ with .Site.Params.author.image }}
         {{ $src := . }}
@@ -29,7 +29,7 @@
         </h2>
       {{ end }}
       {{ with .Content }}
-            <section class="pt-5 prose dark:prose-invert text-left">{{ .Content | emojify }}</section>
+        <section class="pt-5 prose dark:prose-invert text-left">{{ . | emojify }}</section>
       {{ end }}
     </header>
     {{ with .Site.Params.author.links }}
