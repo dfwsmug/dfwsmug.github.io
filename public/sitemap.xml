@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>/styles/</loc>
+    <loc>//localhost:1313/announcements/farewell/</loc>
+  </url><url>
+    <loc>//localhost:1313/announcements/</loc>
+  </url><url>
+    <loc>//localhost:1313/styles/</loc>
   </url>
 </urlset>

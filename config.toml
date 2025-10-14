@@ -4,17 +4,10 @@ title = "DFWSMUG"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-[author]
+[params.author]
 name = "DFWSMUG"
 headline = "Dallas/Fort Worth Systems Management User Group"
 image = "images/customLogo.png"
-links = [
-  { events = { href = "https://mailchi.mp/18920a3ae49d/dfwsmug", text = "Sign Up For Our Newsletter" } },
-  { github = "https://github.com/dfwsmug" },
-  { twitter = "https://twitter.com/dfwsmug" },
-  { facebook = "https://facebook.com/dfwsmug" },
-  { linkedin = "https://www.linkedin.com/groups/14201004/" }
-]
 
 
 [markup.highlight]
